@@ -1,3 +1,4 @@
+// https://en.wikipedia.org/wiki/Birthday_problem
 //Calculate P(A′), the probability that no two people in the room have the same birthday. 
 //  i = P(A′) = number of permutations of k different numbers/number of all permutations
 let k=1, i=1;
